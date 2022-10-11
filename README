@@ -1,0 +1,7 @@
+Recency, Frequency, Monetary and Customer Lifetime Value(RFM, CLV)
+This project was completed to demonstrate my knowledge of the topic.
+It includes
+  1. SQL Query to pull the nececery information using TIMESTAMP manipulation, QUANTILES function and CASE statements.
+  2. Excel tables and graphs.
+  Link to Customer Segmentation Data Studio Dashboard.
+  CLV tables, graphs and analysis summary.
